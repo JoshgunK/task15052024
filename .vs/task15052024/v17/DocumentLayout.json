@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KRMOFF\\Desktop\\task15052024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC5B1E7-5D7D-468D-AF7A-27284BCA99E3}|task15052024\\task15052024.csproj|c:\\users\\krmoff\\desktop\\task15052024\\task15052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DC5B1E7-5D7D-468D-AF7A-27284BCA99E3}|task15052024\\task15052024.csproj|solutionrelative:task15052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KRMOFF\\Desktop\\task15052024\\task15052024\\Program.cs",
+              "RelativeDocumentMoniker": "task15052024\\Program.cs",
+              "ToolTip": "C:\\Users\\KRMOFF\\Desktop\\task15052024\\task15052024\\Program.cs",
+              "RelativeToolTip": "task15052024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:38:00.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
