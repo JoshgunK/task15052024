@@ -1,0 +1,14 @@
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\bin\Debug\net8.0\task150420242.exe
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\bin\Debug\net8.0\task150420242.deps.json
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\bin\Debug\net8.0\task150420242.runtimeconfig.json
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\bin\Debug\net8.0\task150420242.dll
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\bin\Debug\net8.0\task150420242.pdb
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.AssemblyInfoInputs.cache
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.AssemblyInfo.cs
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.csproj.CoreCompileInputs.cache
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.dll
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\refint\task150420242.dll
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.pdb
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\task150420242.genruntimeconfig.cache
+C:\Users\KRMOFF\Desktop\task150420242\task150420242\obj\Debug\net8.0\ref\task150420242.dll
